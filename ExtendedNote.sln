@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtendedNote", "ExtendedNote\ExtendedNote.csproj", "{EC533E12-34BF-458A-80D3-CD17E48A204A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC533E12-34BF-458A-80D3-CD17E48A204A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC533E12-34BF-458A-80D3-CD17E48A204A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC533E12-34BF-458A-80D3-CD17E48A204A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC533E12-34BF-458A-80D3-CD17E48A204A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
